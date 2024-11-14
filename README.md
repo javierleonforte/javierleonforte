@@ -6,8 +6,10 @@
 
 <br><br>
 
-# About ME 💬 :
 
+
+# About ME 💬 :
+<img align="right" width=300px alt="Goku" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl4ejlteDE1cDRvOWU5bGMzd2FqeWdka3pnc3gxOTNlcWtnY21heiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPwZcFRMGOFPO/giphy.webp">
 ### - I'm 20 years old self taught Front-End Developer from Argentina.
 
 ### - Hobbies : 
@@ -19,6 +21,7 @@
 <br><br>
 
 # Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> :
+<img align="right" width=300px alt="Totoro" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp4dWthMHVwcDRiZG5ydm02ZXNkNWJmbWdsM3F4cTJ5ZnB6NXFrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIqh3ym2s7GU/giphy.webp">
 
 - **Lenguages**:
 
