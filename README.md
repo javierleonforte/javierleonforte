@@ -42,7 +42,7 @@
 
 - **Social Media**:
 
-   <a href="[instagram.com/javii.leonforte/](https://www.instagram.com/javii.leonforte/)">
+   <a href="https://www.instagram.com/javii.leonforte/">
      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
    </a>
   
