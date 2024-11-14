@@ -16,7 +16,7 @@
 - ✨ Develop Programming Knowledge
 - ✨ Walks
 
-<br>
+<br><br>
 
 # Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> :
 
@@ -45,4 +45,9 @@
    <a href="https://www.instagram.com/javii.leonforte/">
      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
    </a>
-  
+
+<br><br>
+
+# Github Stats ⚙️ :
+
+  ![Javier's github stats](https://github-readme-stats.vercel.app/api?username=javierleonforte&show_icons=true&theme=radical)
