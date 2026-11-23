@@ -17,7 +17,7 @@
 - ✨ Gaming
 - ✨ Watching Anime
 - ✨ Develop Programming Knowledge
-- ✨ Walks
+- ✨ Work, work and more work
 
 <br><br>
 
