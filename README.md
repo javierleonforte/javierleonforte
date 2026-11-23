@@ -11,7 +11,7 @@
 # About ME 💬 :
 <img align="right" width=300px alt="Goku" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGl4ejlteDE1cDRvOWU5bGMzd2FqeWdka3pnc3gxOTNlcWtnY21heiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPwZcFRMGOFPO/giphy.webp">
 
-### - I'm 20 years old self taught Front-End Developer from Argentina.
+### - I'm 22 years old self taught Front-End Developer from Argentina.
 
 ### - Hobbies : 
 - ✨ Gaming
